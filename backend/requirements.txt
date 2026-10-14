@@ -1,0 +1,6 @@
+fastapi[standard]
+sqlmodel
+opencv-python
+numpy
+pillow
+timm
